@@ -105,6 +105,18 @@ Star the repo if you find it useful!
 - AI upscaling results can vary significantly depending on the source image quality and model choice.
 - Always respect copyright and licensing when upscaling and redistributing images.
 
+## 📈 Star History
+
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Image-Upscalers&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Image-Upscalers&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Image-Upscalers&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Image-Upscalers&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 ---
 
 **Made for photographers, digital artists, game developers, and content creators.**  
