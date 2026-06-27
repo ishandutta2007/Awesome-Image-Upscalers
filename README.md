@@ -21,26 +21,16 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS / Commercial Tools
 
-### Core Image Upscaler Platforms
+| Product | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- |
+| **[Topaz Gigapixel AI](https://topazlabs.com/gigapixel-ai)** | Industry-leading desktop AI upscaler known for exceptional detail recovery and natural results. | Paid plans start at $99.99/year or $99/license | None (Free trial only with watermarked exports) |
+| **[Aiarty Image Enhancer](https://aiarty.com/)** | Powerful desktop tool with multiple AI models for upscaling, denoising, and face enhancement. | $85.00 one-time license | Free version available (includes watermarks and no batch export support) |
+| **[Magnific AI](https://magnific.ai/)** | Creative AI upscaler focused on artistic and highly detailed enlargement with creative controls. | Paid plans start at $39.00/month | None |
+| **[LetsEnhance](https://letsenhance.io/)** | Web-based AI upscaler with strong batch processing and smart enhancement features. | Paid plans start at $9.00/month | 10 free credits upon signup (watermarked exports) |
+| **[Adobe Firefly](https://firefly.adobe.com/)** | Integrated AI image enhancement and upscaling within Adobe’s creative ecosystem. | Paid plans start at $4.99/month | 25 generative credits/month |
+| **[VanceAI](https://vanceai.com/)** | Cloud-based AI photo enhancement and editing tools. | Paid plans start at $4.95/month | 3 free credits/month (watermarked exports) |
+| **[Bigjpg](https://bigjpg.com/)** | AI image upscaler using Deep Convolutional Neural Networks, optimized for anime images and photos. | Paid plans start at $6.00/one-time or subscription | 20 images/month (max 5MB file size, up to 4x upscaling) |
 
-- **[Topaz Gigapixel AI](https://topazlabs.com/gigapixel-ai)**  
-  Industry-leading desktop AI upscaler known for exceptional detail recovery and natural results.
-
-- **[Aiarty Image Enhancer](https://aiarty.com/)**  
-  Powerful desktop tool with multiple AI models for upscaling, denoising, and face enhancement.
-
-- **[Magnific AI](https://magnific.ai/)**  
-  Creative AI upscaler focused on artistic and highly detailed enlargement with creative controls.
-
-- **[LetsEnhance](https://letsenhance.io/)**  
-  Web-based AI upscaler with strong batch processing and smart enhancement features.
-
-- **[Adobe Firefly](https://firefly.adobe.com/)**  
-  Integrated AI image enhancement and upscaling within Adobe’s creative ecosystem.
-
-### Advanced & Specialized Platforms
-
-**Other notable mentions**: VanceAI, Bigjpg, and various specialized photo enhancement tools.
 
 ## Open-Source GitHub Projects
 
