@@ -37,32 +37,32 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Image Upscaler Tools
 
-- **[Upscayl](https://github.com/upscayl/upscayl)**  
+- **[Upscayl](https://github.com/upscayl/upscayl)** [![Stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers)  
   Popular free and open-source AI image upscaler with a beautiful GUI. Supports multiple models (Real-ESRGAN, etc.) and runs locally on consumer GPUs.
 
-- **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)**  
-  State-of-the-art open-source image super-resolution model with excellent real-world performance and extensions for anime/artwork.
-
-- **[SwinIR](https://github.com/JingyunLiang/SwinIR)**  
-  Transformer-based image restoration and super-resolution model with outstanding detail reconstruction.
-
-- **[Waifu2x](https://github.com/lllyasviel/waifu2x)** (and modern forks)  
-  Classic open-source upscaler optimized for anime-style art but effective on general images.
-
-- **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)**  
-  Node-based GUI for running and chaining AI upscaling, enhancement, and restoration models.
-
-- **[Ultimate-Upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)**  
-  Popular extension for Automatic1111 Stable Diffusion WebUI with advanced upscaling workflows.
-
-- **[CodeFormer](https://github.com/sczhou/CodeFormer)**  
-  Blind face restoration and upscaling model with strong performance on low-quality or old photos.
-
-- **[GFPGAN](https://github.com/TencentARC/GFPGAN)**  
+- **[GFPGAN](https://github.com/TencentARC/GFPGAN)** [![Stars](https://img.shields.io/github/stars/TencentARC/GFPGAN?style=social&color=white)](https://github.com/TencentARC/GFPGAN/stargazers)  
   Classic open-source face restoration and enhancement model often used alongside upscalers.
 
-- **[SRGAN / ESRGAN](https://github.com/xinntao/ESRGAN)**  
+- **[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)** [![Stars](https://img.shields.io/github/stars/xinntao/Real-ESRGAN?style=social&color=white)](https://github.com/xinntao/Real-ESRGAN/stargazers)  
+  State-of-the-art open-source image super-resolution model with excellent real-world performance and extensions for anime/artwork.
+
+- **[Waifu2x](https://github.com/nagadomi/waifu2x)** [![Stars](https://img.shields.io/github/stars/nagadomi/waifu2x?style=social&color=white)](https://github.com/nagadomi/waifu2x/stargazers) (and modern forks)  
+  Classic open-source upscaler optimized for anime-style art but effective on general images.
+
+- **[CodeFormer](https://github.com/sczhou/CodeFormer)** [![Stars](https://img.shields.io/github/stars/sczhou/CodeFormer?style=social&color=white)](https://github.com/sczhou/CodeFormer/stargazers)  
+  Blind face restoration and upscaling model with strong performance on low-quality or old photos.
+
+- **[SRGAN / ESRGAN](https://github.com/xinntao/ESRGAN)** [![Stars](https://img.shields.io/github/stars/xinntao/ESRGAN?style=social&color=white)](https://github.com/xinntao/ESRGAN/stargazers)  
   Foundational generative adversarial networks for photo-realistic image super-resolution.
+
+- **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** [![Stars](https://img.shields.io/github/stars/chaiNNer-org/chaiNNer?style=social&color=white)](https://github.com/chaiNNer-org/chaiNNer/stargazers)  
+  Node-based GUI for running and chaining AI upscaling, enhancement, and restoration models.
+
+- **[SwinIR](https://github.com/JingyunLiang/SwinIR)** [![Stars](https://img.shields.io/github/stars/JingyunLiang/SwinIR?style=social&color=white)](https://github.com/JingyunLiang/SwinIR/stargazers)  
+  Transformer-based image restoration and super-resolution model with outstanding detail reconstruction.
+
+- **[Ultimate-Upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)** [![Stars](https://img.shields.io/github/stars/Coyote-A/ultimate-upscale-for-automatic1111?style=social&color=white)](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111/stargazers)  
+  Popular extension for Automatic1111 Stable Diffusion WebUI with advanced upscaling workflows.
 
 - **[ILoveIMG Open-Source Alternatives](https://github.com/search?q=image+upscaler+open+source)**  
   Multiple community tools and web UIs for batch image processing and upscaling.
