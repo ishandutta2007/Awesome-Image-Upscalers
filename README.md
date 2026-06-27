@@ -1,5 +1,17 @@
-# Awesome-Image-Upscalers
-## Top Image Upscaler Ecosystem
+# 🚀 Awesome-Image-Upscalers
+
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Image Upscalers Banner" width="100%" />
+</div>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
+  <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Image-Upscalers" alt="Last Commit" />
+  <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Image-Upscalers" alt="License" />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+## 🌟 Top Image Upscaler Ecosystem & AI Resolution Enhancers
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered Image Enlargement, Enhancement & Resolution Upscaling*  
@@ -13,13 +25,14 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
-- [SaaS / Commercial Tools](#saas-products)
+## 📋 Table of Contents
+- [SaaS / Commercial Tools](#saas--commercial-tools)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS / Commercial Tools
+
+## 🛠️ SaaS / Commercial Tools
 
 | Product | Description | Pricing | Free Tier Limit | Company Size (Est. Revenue / Valuation) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -33,9 +46,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
-### Dedicated Image Upscaler Tools
+### ⚙️ Dedicated Image Upscaler Tools
 
 - **[Upscayl](https://github.com/upscayl/upscayl)** [![Stars](https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white)](https://github.com/upscayl/upscayl/stargazers)  
   Popular free and open-source AI image upscaler with a beautiful GUI. Supports multiple models (Real-ESRGAN, etc.) and runs locally on consumer GPUs.
@@ -67,7 +80,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[ILoveIMG Open-Source Alternatives](https://github.com/search?q=image+upscaler+open+source)**  
   Multiple community tools and web UIs for batch image processing and upscaling.
 
-### Additional Strong Open-Source Options
+### 🔌 Additional Strong Open-Source Options
 
 - **[Topaz Gigapixel Open Alternatives** — Various Real-ESRGAN based forks with improved models.
 - **[Stable Diffusion Upscalers** — Community models optimized for creative upscaling.
@@ -77,7 +90,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Recommended Toolchains**: **Upscayl** + **chaiNNer** + **Real-ESRGAN** models for a complete local, free, and powerful upscaling workflow.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -86,7 +99,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - AI upscaling results can vary significantly depending on the source image quality and model choice.

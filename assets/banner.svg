@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#311042" />
+    </linearGradient>
+    
+    <!-- Accent Gradient for Text/Shapes -->
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#a855f7" />
+      <stop offset="100%" stop-color="#f43f5e" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="15" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="400" fill="url(#bgGradient)" />
+
+  <!-- Stylized Decorative Grid Pattern -->
+  <g opacity="0.05">
+    <path d="M 0 50 L 1200 50 M 0 100 L 1200 100 M 0 150 L 1200 150 M 0 200 L 1200 200 M 0 250 L 1200 250 M 0 300 L 1200 300 M 0 350 L 1200 350" stroke="#ffffff" stroke-width="1" />
+    <path d="M 100 0 L 100 400 M 200 0 L 200 400 M 300 0 L 300 400 M 400 0 L 400 400 M 500 0 L 500 400 M 600 0 L 600 400 M 700 0 L 700 400 M 800 0 L 800 400 M 900 0 L 900 400 M 1000 0 L 1000 400 M 1100 0 L 1100 400" stroke="#ffffff" stroke-width="1" />
+  </g>
+
+  <!-- Glowing Abstract Upscale Visual Elements -->
+  <g filter="url(#glow)" opacity="0.6">
+    <!-- Upscaling visual: Left small box, Right large box -->
+    <!-- Low res representation -->
+    <rect x="150" y="160" width="80" height="80" rx="8" fill="none" stroke="#38bdf8" stroke-width="3" stroke-dasharray="4 4" />
+    <circle cx="190" cy="200" r="20" fill="#38bdf8" opacity="0.3" />
+    
+    <!-- Arrow representation -->
+    <path d="M 270 200 L 350 200" stroke="url(#accentGradient)" stroke-width="6" stroke-linecap="round" />
+    <path d="M 340 190 L 350 200 L 340 210" stroke="url(#accentGradient)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" />
+    
+    <!-- High res representation -->
+    <rect x="390" y="120" width="160" height="160" rx="16" fill="none" stroke="url(#accentGradient)" stroke-width="4" />
+    <circle cx="470" cy="200" r="50" fill="url(#accentGradient)" opacity="0.2" />
+    <path d="M 470 170 L 470 230 M 440 200 L 500 200" stroke="#ffffff" stroke-width="4" stroke-linecap="round" />
+  </g>
+
+  <!-- Text Section -->
+  <g transform="translate(620, 0)">
+    <!-- Subtitle/Category -->
+    <text x="0" y="150" font-family="'Outfit', 'Inter', 'Segoe UI', sans-serif" font-weight="600" font-size="20" fill="#38bdf8" letter-spacing="4">CURATED ECOSYSTEM</text>
+    
+    <!-- Main Title -->
+    <text x="0" y="210" font-family="'Outfit', 'Inter', 'Segoe UI', sans-serif" font-weight="800" font-size="54" fill="url(#accentGradient)" letter-spacing="1">AWESOME AI</text>
+    <text x="0" y="265" font-family="'Outfit', 'Inter', 'Segoe UI', sans-serif" font-weight="800" font-size="44" fill="#ffffff" letter-spacing="1">IMAGE UPSCALERS</text>
+    
+    <!-- Description -->
+    <text x="0" y="310" font-family="'Inter', 'Segoe UI', sans-serif" font-weight="400" font-size="16" fill="#94a3b8" letter-spacing="0.5">Top SaaS &amp; Open-Source tools for resolution enhancement</text>
+  </g>
+
+  <!-- Sparkles/Stars Decor -->
+  <g fill="#ffffff">
+    <path d="M 580 100 L 583 107 L 590 110 L 583 113 L 580 120 L 577 113 L 570 110 L 577 107 Z" opacity="0.8" />
+    <path d="M 180 80 L 181.5 83.5 L 185 85 L 181.5 86.5 L 180 90 L 178.5 86.5 L 175 85 L 178.5 83.5 Z" opacity="0.6" />
+    <path d="M 1100 80 L 1102 85 L 1107 87 L 1102 89 L 1100 94 L 1098 89 L 1093 87 L 1098 85 Z" opacity="0.7" />
+    <path d="M 1050 320 L 1051.5 323.5 L 1055 325 L 1051.5 326.5 L 1050 330 L 1048.5 326.5 L 1045 325 L 1048.5 323.5 Z" opacity="0.5" />
+  </g>
+</svg>
