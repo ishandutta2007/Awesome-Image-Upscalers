@@ -41,6 +41,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Topaz Gigapixel AI](https://topazlabs.com/gigapixel-ai)** | Industry-leading desktop AI upscaler known for exceptional detail recovery and natural results. | Paid plans start at $99.99/year or $99/license | None (Free trial only with watermarked exports) | ~$50M Revenue |
 | **[Aiarty Image Enhancer](https://aiarty.com/)** | Powerful desktop tool with multiple AI models for upscaling, denoising, and face enhancement. | $85.00 one-time license | Free version available (includes watermarks and no batch export support) | ~$5M - $10M Revenue (Est. Digiarty) |
 | **[LetsEnhance](https://letsenhance.io/)** | Web-based AI upscaler with strong batch processing and smart enhancement features. | Paid plans start at $9.00/month | 10 free credits upon signup (watermarked exports) | ~$5M Revenue / ~$13.1M Valuation |
+| **[ImagineClip](https://imagineclip.com/image-upscaler)** | Browser-based AI image upscaling and enhancement within a creative workflow. | Freemium | Free tier available | N/A |
 | **[VanceAI](https://vanceai.com/)** | Cloud-based AI photo enhancement and editing tools. | Paid plans start at $4.95/month | 3 free credits/month (watermarked exports) | ~$1.3M Revenue / ~$4M Valuation |
 | **[Bigjpg](https://bigjpg.com/)** | AI image upscaler using Deep Convolutional Neural Networks, optimized for anime images and photos. | Paid plans start at $6.00/one-time or subscription | 20 images/month (max 5MB file size, up to 4x upscaling) | <$1M Revenue |
 
