@@ -19,7 +19,7 @@
 
 This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Image Upscalers**. These tools use deep learning models to intelligently enlarge images while preserving or enhancing details, sharpness, textures, and reducing artifacts — essential for photography, digital art, game assets, and restoration work.
 
-**Examples** include Topaz Gigapixel AI (Desktop-Based), Aiarty Image Enhancer (Desktop-Based), Magnific AI (Web-Based), LetsEnhance (Web-Based), Adobe Firefly (Web-Based), Upscayl (Open-Source), and ILoveIMG (Open-Source/free) (the category leaders). Tools listed here emphasize **detail preservation**, artifact reduction, speed, and support for batch processing.
+**Examples** include Topaz Gigapixel AI (Desktop-Based), Aiarty Image Enhancer (Desktop-Based), Magnific AI (Web-Based), LetsEnhance (Web-Based), Adobe Firefly (Web-Based), Upscayl (Open-Source), and ILoveIMG (Web-Based/SaaS) (the category leaders). Tools listed here emphasize **detail preservation**, artifact reduction, speed, and support for batch processing.
 
 **Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local execution, model fine-tuning, and complete customization — ideal for creators, developers, and privacy-conscious users who want unlimited usage without subscriptions.
 
@@ -44,6 +44,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[ImagineClip](https://imagineclip.com/image-upscaler)** | Browser-based AI image upscaling and enhancement within a creative workflow. | Freemium | Free tier available | N/A |
 | **[VanceAI](https://vanceai.com/)** | Cloud-based AI photo enhancement and editing tools. | Paid plans start at $4.95/month | 3 free credits/month (watermarked exports) | ~$1.3M Revenue / ~$4M Valuation |
 | **[Bigjpg](https://bigjpg.com/)** | AI image upscaler using Deep Convolutional Neural Networks, optimized for anime images and photos. | Paid plans start at $6.00/one-time or subscription | 20 images/month (max 5MB file size, up to 4x upscaling) | <$1M Revenue |
+| **[ILoveIMG](https://www.iloveimg.com/upscale-image)** | Web-based AI image upscaling and enhancement tools with batch processing. | Paid plans start at $4.00/month | 30 images/task limit | N/A |
 
 
 
@@ -77,9 +78,6 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 - **[Ultimate-Upscale](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111)** [![Stars](https://img.shields.io/github/stars/Coyote-A/ultimate-upscale-for-automatic1111?style=social&color=white)](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111/stargazers)  
   Popular extension for Automatic1111 Stable Diffusion WebUI with advanced upscaling workflows.
-
-- **[ILoveIMG Open-Source Alternatives](https://github.com/search?q=image+upscaler+open+source)**  
-  Multiple community tools and web UIs for batch image processing and upscaling.
 
 ### 🔌 Additional Strong Open-Source Options
 
